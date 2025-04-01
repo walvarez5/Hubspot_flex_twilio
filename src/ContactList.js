@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Table } from '@twilio/flex-ui';
 
-const HUBSPOT_API_KEY = 'Bearer pat-na1-fa4c8b11-4fb0-4925-8661-13ce1b8b108a'; // ⚠️ Reemplaza con tu API Key de HubSpot
+const HUBSPOT_API_KEY = 'Bearer pat-na1-fa4c8bxxxxxxxxxxxxxxxxxxxxxxxxx'; // ⚠️ Reemplaza con tu API Key de HubSpot
 
 const ContactList = () => {
   const [contacts, setContacts] = useState([]);
